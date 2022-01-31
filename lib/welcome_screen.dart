@@ -49,7 +49,7 @@ Widget _textHeader(){
             onSurface: Colors.white,
           ),
           onPressed: null,
-          child: Text('ช่วยเหลือ'),
+          child: Text('ช่วยเหลือ:'),
         ),
         Container(
           width: 1.0,
